@@ -64,6 +64,9 @@ import { Component } from '@angular/core';
             <button type="submit" class="bg-amber-500 hover:bg-amber-600 text-white font-bold py-2 px-6  shadow">
               Submit Order
             </button>
+            <button type="submit" class="bg-amber-500 hover:bg-amber-600 text-white font-bold py-2 px-6  shadow">
+              Delete Order
+            </button>
           </div>
         </form>
 
